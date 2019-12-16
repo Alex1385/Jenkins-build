@@ -1,3 +1,3 @@
 # Jenkins-build
-Hi I like to learn more about Jenkins.
+Hi Jenkins.
 
