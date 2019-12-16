@@ -1,3 +1,0 @@
-# Jenkins-build
-Hi Jenkins.
-
